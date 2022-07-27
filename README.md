@@ -1,8 +1,6 @@
 #
 
-Ver portafolio, click en el siguiente enlace:
 
-https://portfolio-glassmorphism.netlify.app/
 
 
 <h2>
@@ -16,3 +14,9 @@ https://portfolio-glassmorphism.netlify.app/
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
+
+
+
+<h4> See the project in the follow link </h4>
+
+<h4>https://portfolio-glassmorphism.netlify.app/</h4>
